@@ -1,0 +1,54 @@
+# ==== OS & Editor ====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ==== Python ====
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+*.egg-info/
+build/
+dist/
+
+# ==== Jupyter ====
+.ipynb_checkpoints/
+.jupyter/
+
+# ==== Data & Artifacts (Project-specific) ====
+# 1) Dataset (raw & processed)
+data/**
+
+# 2) Outputs (visualization & predictions)
+outputs/**
+
+# 3) Model & preprocessing artifacts
+models/**
+preprocessing/**
+
+# 4) Common binary/large files
+*.pkl
+*.joblib
+*.onnx
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.zip
+*.gz
+
+# 5) Logs / caches / trackers
+*.log
+logs/
+.cache/
+wandb/
+mlruns/
+tensorboard/
+
+# ==== Exceptions (uncomment if needed) ====
+# !data/dataset_awal/sample_submission.csv
+# !outputs/hasil_visualisasi/essential_05_heatmap_selected.png
