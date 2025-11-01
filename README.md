@@ -1,7 +1,7 @@
 # Credit Default Prediction - Rakamin x Home Credit Indonesia
 
 **Final Task - Home Credit Scorecard Model**
-Repositori ini berisi proyek machine learning prediktif yang bertujuan untuk memprediksi risiko gagal bayar nasabah Home Credit. Fokusnya adalah menganalisis data alternatif seperti data demografi, riwayat pinjaman, dan pola pembayaran—untuk mengidentifikasi calon peminjam yang berpotensi mengalami kesulitan pembayaran.
+Repositori ini berisi proyek machine learning prediktif yang bertujuan untuk memprediksi risiko gagal bayar nasabah Home Credit. Fokusnya adalah menganalisis data alternatif seperti data demografi, riwayat pinjaman, dan pola pembayaran untuk mengidentifikasi calon peminjam yang berpotensi mengalami kesulitan pembayaran.
 
 Tahapan umum pada project ini mencakup beberapa bagian utama, yaitu sebagai berikut.
 1. Pemrosesan data: proses pembersihan, penggabungan, dan transformasi data mentah agar siap digunakan untuk pemodelan.
