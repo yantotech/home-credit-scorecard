@@ -64,24 +64,16 @@ Notebook terakhir digunakan untuk menghasilkan prediksi berdasarkan model yang s
 ## Struktur Project yang Disarankan
 ```
 home_credit_scorecard_model/
-├─ data/
-│  ├─ dataset_awal/                  
-│  └─ dataset_hasil_data_processing/
-│
 ├─ data_processing_dan_visualitation/
 │  ├─ data_processing.ipynb
 │  └─ data_visualitation.ipynb
 │
 ├─ trains.ipynb                                          
 │
-├─ outputs/
-│  ├─ hasil_visualisasi/
-│  ├─ preprocessing/
-│  ├─ models/
-│  │   ├─ logistic_regression/
-│  │   ├─ random_forest/
-│  │   └─ gradient_boosting/
-│  └─ hasil_prediksi/
+├─ models/
+│  ├─ logistic_regression/
+│  ├─ random_forest/
+│  └─ gradient_boosting/
 │
 └─ prediksi.ipynb
 ```
