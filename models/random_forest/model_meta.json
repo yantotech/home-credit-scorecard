@@ -1,0 +1,15 @@
+{
+  "params": {
+    "clf__max_depth": 5,
+    "clf__min_samples_split": 10,
+    "clf__n_estimators": 100
+  },
+  "metrics": {
+    "recall": 0.7256797583081571,
+    "precision": 0.13564490625705897,
+    "f1": 0.22856599105528594,
+    "roc_auc": 0.7138943081602347,
+    "average_precision": 0.18478401824221657,
+    "threshold": 0.44096216937142707
+  }
+}
